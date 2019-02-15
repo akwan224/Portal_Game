@@ -10,20 +10,29 @@ Navigate your character (Atlas) through the maze by reaching the pink checkpoint
 Controls: 
 
 CHARACTER MOVEMENT:
+
 Up: "w" // "Up-arrow-key"
+
 Left: "a" // "Left-arrow-key"
+
 Down: "s" // "Down-arrow-key"
+
 Left: "d" // "Right-arrow-key"
 
 PORTAL_GUN 
+
 Fire OrangePortal "e"
+
 Fire BluePortal  "q"
 
 NEXT/PREVIOUS LEVEL 
+
 Next Level: "m"
+
 Previous Level: "n"
 
 QUIT GAME
+
 Quit "X"
 
 
