@@ -36,4 +36,19 @@ QUIT GAME
 Quit "X"
 
 
+Spawn Portals to help you navigate through lava:
+
+![Spawning Portals](https://i.imgur.com/Cjrqhtj.png)
+
+Travel through these Portals to access previously unaccessable parts of the map: 
+
+![Travelling through Portal](https://i.imgur.com/QNkGGRm.png)
+
+Travel to the Pink Tile to complete the level: 
+
+![Completing Level](https://i.imgur.com/lCM0BH4.png)
+
+
+
+
 
