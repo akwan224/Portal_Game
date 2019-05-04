@@ -8,23 +8,28 @@ Implemented with Observer, Observeable and Composite design patterns. Try/Catch 
 Navigate your character (Atlas) through the maze by reaching the pink checkpoint. Use your portal gun, to teleport through previously unaccessible parts of the maze. Please note that walking through Lava does kill you! (Asked a friend and they confirmed that walking through lava in real life results in a world of pain) 
 
 ##**Controls**
-WASD to move forward, left, backward, right.
-Q to fire blue portal.
-E to fire orange portal.
-M to observe players in the main view.
-N to observe players in the picture-in-picture view.
-X to quit game.
+•WASD to move forward, left, backward, right.
+
+•Q to fire blue portal.
+
+•E to fire orange portal.
+
+•M to observe players in the main view.
+
+•N to observe players in the picture-in-picture view.
+
+•X to quit game.
 
 ##Gameplay Footage 
 
 ### **Moving Character**
-![](https://imgur.com/N6XjW5q)
+![](portalMoving.gif)
 
 ### **Traversing through level 1**
-![](https://imgur.com/ANhkWBH)
+![](portalLevel1.gif)
 
 ### **Traversing through level 2**
-![](https://imgur.com/NkrvJyB)
+![](portalLevel2.gif)
 
 
 
