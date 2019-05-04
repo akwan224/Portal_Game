@@ -23,13 +23,13 @@ Navigate your character (Atlas) through the maze by reaching the pink checkpoint
 ##Gameplay Footage 
 
 ### **Moving Character**
-![](portalMoving.gif)
+![](GIFs/portalMoving.gif)
 
 ### **Traversing through level 1**
-![](portalLevel1.gif)
+![](GIFs/portalLevel1.gif)
 
 ### **Traversing through level 2**
-![](portalLevel2.gif)
+![](GIFs/portalLevel2.gif)
 
 
 
