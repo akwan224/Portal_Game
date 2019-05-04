@@ -4,51 +4,27 @@ Hi there! THis is my first personal project where I recreate the Valve puzzle ba
 
 Implemented with Observer, Observeable and Composite design patterns. Try/Catch Exceptions and JUnit tests written for more robust coding. 
 
-Rules: 
-Navigate your character (Atlas) through the maze by reaching the pink checkpoint. Use your portal gun, to teleport through previously unaccessible parts of the maze. Please note that walking through Lava does kill you! (Wouldn't want to try that in real life either hehe) 
+##**Rules:** 
+Navigate your character (Atlas) through the maze by reaching the pink checkpoint. Use your portal gun, to teleport through previously unaccessible parts of the maze. Please note that walking through Lava does kill you! (Asked a friend and they confirmed that walking through lava in real life results in a world of pain) 
 
-Controls: 
+##**Controls**
+WASD to move forward, left, backward, right.
+Q to fire blue portal.
+E to fire orange portal.
+M to observe players in the main view.
+N to observe players in the picture-in-picture view.
+X to quit game.
 
-CHARACTER MOVEMENT:
+##Gameplay Footage 
 
-Up: "w" // "Up-arrow-key"
+### **Moving Character**
+![](https://imgur.com/N6XjW5q)
 
-Left: "a" // "Left-arrow-key"
+### **Traversing through level 1**
+![](https://imgur.com/ANhkWBH)
 
-Down: "s" // "Down-arrow-key"
-
-Left: "d" // "Right-arrow-key"
-
-PORTAL_GUN 
-
-Fire OrangePortal "e"
-
-Fire BluePortal  "q"
-
-NEXT/PREVIOUS LEVEL 
-
-Next Level: "m"
-
-Previous Level: "n"
-
-QUIT GAME
-
-Quit "X"
-
-
-Spawn Portals to help you navigate through lava:
-
-![Spawning Portals](https://i.imgur.com/Cjrqhtj.png)
-
-Travel through these Portals to access previously unaccessable parts of the map: 
-
-![Travelling through Portal](https://i.imgur.com/QNkGGRm.png)
-
-Travel to the Pink Tile to complete the level: 
-
-![Completing Level](https://i.imgur.com/lCM0BH4.png)
-
-
+### **Traversing through level 2**
+![](https://imgur.com/NkrvJyB)
 
 
 
